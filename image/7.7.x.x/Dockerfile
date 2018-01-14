@@ -1,4 +1,4 @@
-FROM php:5.4-apache
+FROM php:5.3-apache
 
 MAINTAINER jungle.r@intergreat.com
 
